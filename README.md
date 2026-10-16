@@ -98,12 +98,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/donvishwa8-cmd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=donvishwa8-cmd&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
